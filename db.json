@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Flask is cool" },
+    { "id": 2, "title": "Flask is NOT cool" },
+    { "id": 3, "title": "You didn't understand FLASK right" }
+  ],
+  "comments": [
+    { "id": 1, "body": "That's some helpful info, thanks!", "postId": 1 },
+    { "id": 2, "body": "Not agreed.", "postId": 1 }
+  ],
+  "profile": {
+    "name": "someprofile"
+  }
+}
